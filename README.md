@@ -22,14 +22,14 @@ Este es un template básico para un servidor Express con sequelize con configura
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/Generacion-32/exp-sq-g32.git <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/kleinehassler/exp-sq.git <NOMBRE_DEL_PROYECTO>
 cd <NOMBRE_DEL_PROYECTO>
 
 ```
 2. Tambien puedes hacerlo con el siguiente comando
 
 ```
-npx exp-sq-g32
+npx exp-sq
 ```
 
 ## Uso
@@ -60,6 +60,6 @@ Este comando ejecutará la aplicación en un entorno de producción.
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el template, no dudes en comunicarla.
 
 ## Licencia
-Este proyecto está bajo la Licencia ISC 
+Este proyecto está bajo la Licencia MIT
 
 
